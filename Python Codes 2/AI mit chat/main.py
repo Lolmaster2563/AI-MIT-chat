@@ -94,5 +94,4 @@ for index,ext in enumerate(extens):
 
 keep_alive.keep_alive()
 
-# client.run(os.getenv('TOKEN'))
-client.run("ODIzOTUxNzI5Nzc1MjE0NTky.YFoS2A.rnWE_MmAOrb09aMvR_mL51VgFLU")
+client.run(os.getenv('TOKEN'))
